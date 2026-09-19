@@ -1,0 +1,11 @@
+{
+  "name": "appbv",
+  "description": "Plataforma para empresas de transporte en Chile para prevención de riesgos, gestión y trazabilidad de controles de alcohol y drogas, plantillas de checklists de seguridad pre-uso vehicular, y cumplimiento normativo (Ley 16.744, Ley 18.290, SUSESO, ISO 37301/39001).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
